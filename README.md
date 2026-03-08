@@ -7,12 +7,12 @@ Hi there! 👋 I'm **Jay Kharpuse**, an aspiring Software Developer focused on F
 ## 🔥 Core Competencies
 
 - ✅ **Full-Stack Development:** React, Node.js, Express
-- ✅ **Programming:** JavaScript, TypeScript, C++
-- ✅ **Databases:** MongoDB, PostgreSQL
+- ✅ **Programming:** JavaScript, TypeScript, C++, Python
+- ✅ **Databases:** MongoDB, PostgreSQL, MySQL
 - ✅ **Backend Development:** REST APIs, Authentication, Middleware
 - ✅ **Real-Time Applications:** Socket.IO, WebSockets
 - ✅ **Developer Tools:** Git, GitHub, Docker
-- ✅ **Problem Solving:** Data Structures & Algorithms (LeetCode, GeeksforGeeks)
+- ✅ **Problem Solving:** Data Structures & Algorithms (LeetCode)
 - ✅ **Learning Focus:** System Design and scalable applications
 
 ---
