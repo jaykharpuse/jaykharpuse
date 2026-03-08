@@ -22,9 +22,19 @@ Hi there! 👋 I'm **Jay Kharpuse**, an aspiring Software Developer focused on F
 - Advanced Backend Development
 - System Design Basics
 - Scalable Web Architectures
-- TypeScript for large-scale applications
+- TypeScript for Large-Scale Applications
+- Generative AI & AI-powered Application Development
+- Building AI Integrations using APIs (OpenAI / LLM-based tools)
+- Exploring AI-assisted Developer Workflows
 
 ---
+
+## ⚡ Fun Fact
+
+I enjoy building real-world applications and constantly exploring new technologies, especially at the intersection of full-stack development and AI.
+
+---
+
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
