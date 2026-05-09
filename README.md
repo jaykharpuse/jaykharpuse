@@ -1,4 +1,4 @@
-# 🚀 Jay Kharpuse — Aspiring Software Developer | Full-Stack Developer & DSA Enthusiast
+# 🚀 Jay Kharpuse — Software Developer | Full-Stack Developer & DSA Enthusiast
 
 Hi there! 👋 I'm **Jay Kharpuse**, an aspiring Software Developer focused on Full-Stack Development and improving problem-solving skills through Data Structures & Algorithms.
 
